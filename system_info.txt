@@ -1,0 +1,7 @@
+OS: Linux-5.4.0-121-generic-x86_64-with-debian-bullseye-sid #137-Ubuntu SMP Wed Jun 15 13:33:07 UTC 2022
+Python: 3.7.13
+Stable-Baselines3: 1.6.0
+PyTorch: 1.12.0
+GPU Enabled: True
+Numpy: 1.21.5
+Gym: 0.21.0
